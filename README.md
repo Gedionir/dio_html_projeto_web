@@ -1,1 +1,1 @@
-Projeto de blog com utilização de tags ensinadas no curso da DIO.
+Projeto - Criação de um blog com utilização de tags ensinadas no curso de HTML da DIO.
